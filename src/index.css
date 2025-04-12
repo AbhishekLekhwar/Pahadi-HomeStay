@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scroll-behavior: smooth;
+}
+
+/* Custom styles for mobile responsiveness */
+@media (max-width: 640px) {
+  .task-text {
+    font-size: 1.2rem; /* Adjust font size for better readability */
+  }
+  .bg-rose-500 {
+    padding: 1rem; /* Adjust padding for mobile */
+  }
+  .bg-slate-300 {
+    padding: 0.5rem; /* Adjust padding for mobile */
+  }
+  button {
+    padding: 0.75rem 1.5rem; /* Increase button size for touch */
+    font-size: 1rem; /* Ensure button text is readable */
+  }
+  input {
+    padding: 0.75rem; /* Increase input size for touch */
+    font-size: 1rem; /* Ensure input text is readable */
+  }
+}

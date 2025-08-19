@@ -189,7 +189,7 @@ export const completeHomestays = {
     },
   ],
 
-  jimCorbett: [
+  jimcorbett: [
     {
       id: 13,
       name: "Jungle Safari Lodge",

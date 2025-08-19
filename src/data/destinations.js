@@ -17,7 +17,8 @@ export const destinations = [
     id: 2,
     name: "Nainital",
     location: "Kumaon Region, Uttarakhand",
-    image: "/src/assets/nenital.jpeg",
+    image:
+      "https://indiathrills.com/wp-content/uploads/2022/07/Places-to-visit-in-Nainital.jpg",
     description:
       "The Lake District of India, famous for its emerald Naini Lake",
     rating: 4.7,
@@ -35,7 +36,8 @@ export const destinations = [
     id: 3,
     name: "Auli",
     location: "Chamoli District, Uttarakhand",
-    image: "/src/assets/Auli.webp",
+    image:
+      "https://www.bontravelindia.com/wp-content/uploads/2022/10/Auli-Tourism-Best-Places-to-Visit-Things-to-Do-in-Auli-1000x565.jpg",
     description:
       "India's premier ski destination with panoramic Himalayan views",
     rating: 4.8,
@@ -53,7 +55,8 @@ export const destinations = [
     id: 4,
     name: "Jim Corbett",
     location: "Nainital District, Uttarakhand",
-    image: "/src/assets/Jim-Corbett.webp",
+    image:
+      "https://www.bontravelindia.com/wp-content/uploads/2021/10/Jim-Corbett-National-Park-Safari.jpg",
     description: "India's oldest national park, home to majestic Bengal tigers",
     rating: 4.5,
     homestayCount: 4,
@@ -70,7 +73,8 @@ export const destinations = [
     id: 5,
     name: "Rishikesh",
     location: "Dehradun District, Uttarakhand",
-    image: "/src/assets/rishikesh.jpeg",
+    image:
+      "https://www.andbeyond.com/wp-content/uploads/sites/5/Haridwar-and-Rishikesh.jpg",
     description:
       "The Yoga Capital of the World, situated on the banks of Ganges",
     rating: 4.6,
@@ -88,7 +92,7 @@ export const destinations = [
     id: 6,
     name: "Almora",
     location: "Kumaon Region, Uttarakhand",
-    image: "/src/assets/almora.jpeg",
+    image: "https://www.ghumakkar.com/wp-content/uploads/2010/09/DSC04311.jpg",
     description:
       "Cultural heart of Kumaon, known for its rich heritage and temples",
     rating: 4.4,
@@ -106,7 +110,7 @@ export const destinations = [
     id: 7,
     name: "Kausani",
     location: "Bageshwar District, Uttarakhand",
-    image: "/src/assets/almora.jpeg",
+    image: "https://www.india-trip.in/img/category/ooty2.jpg",
     description:
       "Himalayan viewpoint offering 300km panoramic views of Nanda Devi and Trishul peaks",
     rating: 4.6,
@@ -124,7 +128,8 @@ export const destinations = [
     id: 8,
     name: "Chopta",
     location: "Rudraprayag District, Uttarakhand",
-    image: "/src/assets/Auli.webp",
+    image:
+      "https://www.manchalamushafir.com/chopta-uttarakhand-unveiling-the-serene-paradise-of-the-himalayas/images/chopta%20image.jpg",
     description:
       "Mini Switzerland of India, gateway to Tungnath Temple and Chandrashila trek",
     rating: 4.7,
@@ -142,7 +147,8 @@ export const destinations = [
     id: 9,
     name: "Binsar",
     location: "Almora District, Uttarakhand",
-    image: "/src/assets/nenital.jpeg",
+    image:
+      "https://www.trawell.in/admin/images/upload/431429299Ranikhet_Binsar_Mahadev_Mandir_Main.jpg",
     description:
       "Zero pollution wildlife sanctuary with stunning Himalayan views and ancient temples",
     rating: 4.5,

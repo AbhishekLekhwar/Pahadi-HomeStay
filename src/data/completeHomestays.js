@@ -21,7 +21,8 @@ export const completeHomestays = {
       price: 3200,
       rating: 4.7,
       priceRange: "₹3,000-4,500",
-      image: "/src/assets/mussoorie.webp",
+      image:
+        "https://www.namasteindiatrip.com/wp-content/uploads/2019/09/Mussoorie-Travel-HD.jpg",
       description: "Premium villa with panoramic valley views",
       amenities: ["WiFi", "Parking", "Breakfast", "Valley View", "Balcony"],
       hostName: "Mrs. Mehra",
@@ -34,7 +35,8 @@ export const completeHomestays = {
       price: 1800,
       rating: 4.3,
       priceRange: "₹1,500-2,500",
-      image: "/src/assets/mussoorie.webp",
+      image:
+        "https://www.trawell.in/admin/images/upload/194726753Mussoorie_Mussoorie_Lake_Main.jpg",
       description: "Budget-friendly homestay with basic amenities",
       amenities: ["WiFi", "Parking", "Breakfast", "Hot Water"],
       hostName: "Mr. Gupta",
@@ -47,7 +49,8 @@ export const completeHomestays = {
       price: 4200,
       rating: 4.8,
       priceRange: "₹4,000-6,000",
-      image: "/src/assets/mussoorie.webp",
+      image:
+        "https://3.bp.blogspot.com/-efomG6N3YQQ/WzPQNikoixI/AAAAAAAATqk/YiiQwQScTe0xCE-c0J6FPuj3IwY68fisgCLcBGAs/s1600/Dehradun%2Brope%2Bcar.jpg",
       description: "Luxury cottage with premium facilities",
       amenities: ["WiFi", "Parking", "Breakfast", "Spa", "Fireplace", "Garden"],
       hostName: "Ms. Singh",
@@ -63,7 +66,8 @@ export const completeHomestays = {
       price: 2800,
       rating: 4.6,
       priceRange: "₹2,500-4,000",
-      image: "/src/assets/nenital.jpeg",
+      image:
+        "http://i.pinimg.com/originals/59/bd/bf/59bdbfcd39981815753b2199c8e8e4f0.jpg",
       description: "Beautiful lake view homestay near Naini Lake",
       amenities: ["WiFi", "Parking", "Breakfast", "Lake View", "Balcony"],
       hostName: "Mrs. Verma",
@@ -76,7 +80,8 @@ export const completeHomestays = {
       price: 3500,
       rating: 4.8,
       priceRange: "₹3,200-5,000",
-      image: "/src/assets/nenital.jpeg",
+      image:
+        "https://www.greenroofhotelnainital.com/wp-content/uploads/2019/12/nainital-boating.jpg",
       description: "Charming cottage surrounded by pine forests",
       amenities: ["WiFi", "Parking", "Breakfast", "Forest View", "Garden"],
       hostName: "Mr. Joshi",
@@ -89,7 +94,8 @@ export const completeHomestays = {
       price: 1500,
       rating: 4.2,
       priceRange: "₹1,200-2,000",
-      image: "/src/assets/nenital.jpeg",
+      image:
+        "https://nainitaltourism.org.in/images/places-to-visit/headers/kainchi-dham-nainital-indian-tourism-entry-fee-timings-holidays-reviews-header.jpg",
       description: "Affordable homestay with clean rooms",
       amenities: ["WiFi", "Parking", "Breakfast", "Hot Water"],
       hostName: "Mr. Kumar",
@@ -102,7 +108,8 @@ export const completeHomestays = {
       price: 5500,
       rating: 4.9,
       priceRange: "₹5,000-8,000",
-      image: "/src/assets/nenital.jpeg",
+      image:
+        "https://cdn1.goibibo.com/voy_ing/t_fs/uttarakhand-nainital-149432287811o.jpeg",
       description: "Premium resort with lake access and luxury amenities",
       amenities: [
         "WiFi",
@@ -125,7 +132,7 @@ export const completeHomestays = {
       price: 3800,
       rating: 4.7,
       priceRange: "₹3,500-5,500",
-      image: "/src/assets/Auli.webp",
+      image: "https://blog.thomascook.in/wp-content/uploads/2015/10/Auli.jpg",
       description: "Ski-in/ski-out homestay with mountain views",
       amenities: ["WiFi", "Parking", "Breakfast", "Ski Storage", "Heater"],
       hostName: "Mr. Rawat",
@@ -138,7 +145,8 @@ export const completeHomestays = {
       price: 4500,
       rating: 4.8,
       priceRange: "₹4,200-6,500",
-      image: "/src/assets/Auli.webp",
+      image:
+        "https://www.bontravelindia.com/wp-content/uploads/2022/10/Skiing-in-Uttarakhand.jpg",
       description: "Premium lodge with panoramic Himalayan views",
       amenities: ["WiFi", "Parking", "Breakfast", "Mountain View", "Fireplace"],
       hostName: "Mrs. Negi",
@@ -151,7 +159,8 @@ export const completeHomestays = {
       price: 2200,
       rating: 4.4,
       priceRange: "₹2,000-3,200",
-      image: "/src/assets/Auli.webp",
+      image:
+        "https://www.trawell.in/admin/images/upload/033141411Auli_Ski_Resort_Main.jpg",
       description: "Economical stay with basic mountain amenities",
       amenities: ["WiFi", "Parking", "Breakfast", "Hot Water", "Heater"],
       hostName: "Mr. Bisht",
@@ -164,7 +173,8 @@ export const completeHomestays = {
       price: 5800,
       rating: 4.9,
       priceRange: "₹5,500-8,500",
-      image: "/src/assets/Auli.webp",
+      image:
+        "https://www.articlization.com/img/uploads/article_images/big/1593583134_places-to-visit-auli-1.jpg",
       description: "Luxury homestay with premium ski facilities",
       amenities: [
         "WiFi",

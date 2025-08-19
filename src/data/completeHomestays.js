@@ -7,7 +7,8 @@ export const completeHomestays = {
       price: 2500,
       rating: 4.5,
       priceRange: "₹2,000-3,500",
-      image: "/src/assets/mussoorie.webp",
+      image:
+        "https://indiathrills.com/wp-content/uploads/2021/02/Mussoorie-Trip-1.jpg",
       description: "Cozy homestay with mountain views",
       amenities: ["WiFi", "Parking", "Breakfast", "Mountain View", "Garden"],
       hostName: "Mr. Sharma",

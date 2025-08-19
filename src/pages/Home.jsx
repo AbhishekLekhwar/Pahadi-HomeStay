@@ -59,7 +59,8 @@ const Home = () => {
         <div
           className="absolute inset-0 bg-cover bg-center"
           style={{
-            backgroundImage: "url('/src/assets/uttarakhand.jpeg')",
+            backgroundImage:
+              "url('https://www.uttarakhand-tourism.com/Index/images/chardham.jpg')",
           }}
         >
           <div className="absolute inset-0 bg-black bg-opacity-50"></div>

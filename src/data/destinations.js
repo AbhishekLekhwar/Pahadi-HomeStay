@@ -3,7 +3,8 @@ export const destinations = [
     id: 1,
     name: "Mussoorie",
     location: "Dehradun District, Uttarakhand",
-    image: "/src/assets/mussoorie.webp",
+    image:
+      "https://lp-cms-production.imgix.net/2019-06/GettyImages-450780651_full.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4",
     description:
       "The Queen of Hills, known for its scenic beauty and colonial charm",
     rating: 4.6,
